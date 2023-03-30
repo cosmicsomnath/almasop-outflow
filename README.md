@@ -6,9 +6,15 @@ The molecular CO outflow shell is assumed to be the radially expanding parabolic
 
 
 To use this code: 
+
 download the whole file - 
+
 simply change the data-directory and file names - 
+
 use sensitivity to plot the contours - 
+
 change contour levels, as you wish. decide the outflow-shell
+
 change p and t0 values
+
 see: is it fitting to your expected outflow shells? 
