@@ -7,14 +7,14 @@ The molecular CO outflow shell is assumed to be the radially expanding parabolic
 
 To use this code: 
 
-download the whole file - 
+step1: download the whole code including data - 
 
-simply change the data-directory and file names - 
+step2: simply change the data-directory and file names - 
 
-use sensitivity to plot the contours - 
+step3: use sensitivity to plot the contours - 
 
-change contour levels, as you wish. decide the outflow-shell
+step4: change contour levels, as you wish. decide the outflow-shell
 
-change p and t0 values
+step5: change p and t0 values
 
-see: is it fitting to your expected outflow shells? 
+step6: see: is it fitting to your expected outflow shells? 
