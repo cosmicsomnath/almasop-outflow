@@ -1,5 +1,5 @@
 # almasop-outflow
-The main code is "G203.21-11.20W2_co_pv_git.ipynb".
+The main code to measure inclination angle of the outflow-jet system is "G203.21-11.20W2_co_pv_git.ipynb".
 
 If you are using this code, please cite the paper: ALMASOP-outflow
 
